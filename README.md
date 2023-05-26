@@ -97,9 +97,9 @@ public class Program : MonoBehaviour
 ```
 ## Output:
 
-![image](https://github.com/MIRUDHULA-DHANARAJ/RollaBall/assets/94828147/9a4d0a62-8d41-43e8-8357-88209fe4b9d0)
+![image](https://github.com/MIRUDHULA-DHANARAJ/RollaBall/assets/94828147/fee22fcb-e12b-4898-9537-85e2aaaa8f8d)
 
-![image](https://github.com/MIRUDHULA-DHANARAJ/RollaBall/assets/94828147/f0073804-31d0-49cd-ba2e-f567a4883220)
+![image](https://github.com/MIRUDHULA-DHANARAJ/RollaBall/assets/94828147/6600c6ae-0e39-4887-9dbd-8387c598ef9d)
 
 
 ## Result:
